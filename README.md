@@ -13,4 +13,4 @@ The other python scripts obtain the allele frequency of each variant row in the 
 
 "female_var.py" counts the female genotypes to get the AF for females on the autosomes and the X.
 
-"y_segs.py" counts the genotypes to get AF on segments of the chrY which comprise the 10.4 MB mask used for the Y in the 1000 Genome Project.
+"y_genotype.py" counts the genotypes to get AF on segments of the chrY which comprise the 10.4 MB mask used for the Y in the 1000 Genome Project. "y_segs.py" uses the 10.4 MB mask part of the male specific Y and extracts the AF from the INFO line for each variant.
