@@ -1,5 +1,5 @@
 # Big-Data
-Python scripts to analyze whole chromosome files of the 1000 Genome Project. These vcf files were from International Genome Project  (www.internationalgenome.org)
+Python scripts to analyze whole chromosome files of the 1000 Genome Project. These vcf files were from International Genome Project  (www.internationalgenome.org) . Additional scripts may be at "marshalljordanmd/std_dev.py"
 
 "big_data.py"  gets the AF from the INFO line of the vcf chromosome files, categorizing them as Rare (<0.5%), Uncommon (0.5-5%), and Common (>5%)
 
